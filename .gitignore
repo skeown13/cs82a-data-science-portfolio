@@ -1,1 +1,5 @@
 .DS_Store
+module6/store.db
+module6/store_customers.csv
+module6/store_orders.csv
+module6/customers.db
